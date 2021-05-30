@@ -1,7 +1,7 @@
 # Inventori
-Website yang bertema jasa pengiriman barang menggunakan mysql
+Website yang bertema jasa pengiriman barang menggunakan mysql. Tujuan pembuatan website ini adalah untuk memenuhi nilai matakuliah Basis Data Semester 4
 
-Inventori Barang v2.0
+Inventori Barang v1.0
 
 Fitur Admin :
 - Input Data ( User, Barang Masuk, Barang Keluar )
